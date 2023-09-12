@@ -1,1 +1,1 @@
-#### Sample repo
+# Sample repo
